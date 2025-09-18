@@ -18,3 +18,6 @@ Chrome extension project with a React-powered popup.
    ```
 
 The compiled extension files will be output to the `dist/` directory. Load this folder as an unpacked extension in Chrome to test the build.
+
+#DEMO-21 comment
+웹훅 테스트 – 이 줄부터가 댓글로 달립니다.
